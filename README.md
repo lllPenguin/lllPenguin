@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lllPenguin
+- 👋 Hi, I’m @KHAFOU
 - 👀 I’m interested in VideoGame Engineering 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Videogame programming 
+- 🌱 I’m currently learning R
+- 💞️ I’m looking to collaborate on social Media projects 
 - 📫 How to reach me aymanekhafou@gmail.com
 
 <!---
