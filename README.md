@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KHAFOU
-- 👀 I’m interested in VideoGame Engineering 
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on social Media projects 
 - 📫 How to reach me aymanekhafou@gmail.com
